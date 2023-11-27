@@ -59,3 +59,23 @@ Most things are made with primitives combined resulting in stages. I used Probui
 | Read me                            | 0.5          |
 | **Total**                          | **17.5**     |
 
+
+References:
+
+Ideas for mechanics
+https://blog.hyperx.com/article/10654/all-maps-levels-and-minigames-in-fall-guys-ultimate-knockout
+
+Create Bounce Bumper Game Mechanic in Unity https://www.youtube.com/watch?v=bdGn4J4HD_8
+
+Texture for finish flag
+https://www.vecteezy.com/vector-art/6628571-checkered-seamless-black-and-white-boxes-pattern-background-tablecloth-or-flag-racing-pattern-free-vector
+
+ChatGPT
+https://chat.openai.com/share/9164f6ca-5ace-4d53-b8a1-781841693ae2
+
+Example project
+https://github.com/IvanNik17/ExampleProjects/tree/main/Pi3D-Example%20Hand-in
+
+Image source fallguys: https://www.google.com/url?sa=i&url=https%3A%2F%2Fstore.epicgames.com%2Fen-US%2Fp%2Ffall-guys&psig=AOvVaw1zOt63e7fwMj-8dPOEEEEm&ust=1701174653321000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNicy8mX5IIDFQAAAAAdAAAAABAE
+
+Image source marble: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUI4FB-QKqI8&psig=AOvVaw0yphW96ng0V6hhixQTGFh7&ust=1701174805324000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLidjJKY5IIDFQAAAAAdAAAAABAZ
