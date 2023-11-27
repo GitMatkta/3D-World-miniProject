@@ -12,8 +12,8 @@ The idea of this game concept is a race to the finish line with mechanics inspir
 The game consists of the following:
 
 - **Player** - A ball, manipulated with WASD as you can only guide the ball with a gentle application of force.
-- **Camera** - A camera that allows the player to follow the ball without getting nausea by locking it from rotating with the ball player object.
-- **Stage** - A linear stage that the player has to follow to the end to complete while weaving between obsticals.
+- **Camera** - A camera that allows the player to follow the ball without getting nausea by preventing it from rotating with the ball player object.
+- **Stage** - A linear stage that the player has to follow to the end to complete while weaving between obstacles.
 - **Obstacles**  - Various obstacles to interchange positions or knock the player off the platform, stopping them from reaching the goal area.
 - **Goal** - Once colliding with the goal the camera will be changed and a message congratulating the player is displayed.
 - **Victory cam** - A view that the player gets to see once the Goal script is triggered.
@@ -28,7 +28,7 @@ The game consists of the following:
 
 - **BallController:** Used to control the ball character by allowing the player to apply force to the ball. 
 - **CameraController:** Used to keep the camera on the player without rotating with the movement of the ball. 
-- **FanSpin:** Makes the fans spin around themselves on the y-Axis. 
+- **FanSpin:** Makes the fans spin around themselves on the y-axis. 
 - **BounceBackBumper:** Unleashes explosive force upon the player colliding with the object. 
 - **WashingMachine:** Rotates the object around itself on the Z-Axis.
 - **GoalCam:** Switches to the finish cam when the player reaches the goal line.
